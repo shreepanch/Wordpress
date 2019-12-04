@@ -1,0 +1,16 @@
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/pcpc
+Data file = C:\xampp\htdocs\pcpc/wp-content/uploads/2019/12/demo-1.zip
+Widget file = C:\xampp\htdocs\pcpc/wp-content/uploads/2019/12/demo-2.zip
+Customizer file = C:\xampp\htdocs\pcpc/wp-content/uploads/2019/12/demo-3.zip
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Widget import data could not be read. Please try a different file.

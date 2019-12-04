@@ -1,0 +1,16 @@
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/pcpc
+Data file = C:\xampp\htdocs\pcpc/wp-content/uploads/2019/10/13-reasons.jpg
+Widget file = C:\xampp\htdocs\pcpc/wp-content/uploads/2019/10/ironman-1.jpg
+Customizer file = C:\xampp\htdocs\pcpc/wp-content/uploads/2019/10/13-reasons-1.jpg
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Widget import data could not be read. Please try a different file.

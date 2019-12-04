@@ -1,0 +1,156 @@
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/pcpc
+Data file = C:\xampp\htdocs\pcpc/wp-content/uploads/2019/12/photoway.xml
+Widget file = C:\xampp\htdocs\pcpc/wp-content/uploads/2019/12/photoway.wie
+Customizer file = C:\xampp\htdocs\pcpc/wp-content/uploads/2019/12/photoway.dat
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag accessories
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+Completed AJAX call number: 2
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag accessories
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+Completed AJAX call number: 3
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag accessories
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+---Importing content---
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag accessories
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+[WARNING] Failed to import "Contact": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "Cap": Invalid post type product
+[WARNING] Failed to import "Amplifier": Invalid post type product
+[WARNING] Failed to import "Sunglass": Invalid post type product
+[WARNING] Failed to import "Sunglass": Invalid post type product
+[WARNING] Failed to import "Alarm Watch": Invalid post type product
+[WARNING] Failed to import "Your 3D Cover": Invalid post type product
+[WARNING] Failed to import "": Invalid post type product
+[WARNING] Failed to import "Dreamers": Invalid post type product
+[WARNING] Could not find the post parent for "product2-300&#215;300" (post #47)
+[WARNING] Could not find the post parent for "product1-300&#215;300" (post #48)
+[WARNING] Could not find the post parent for "product3-600&#215;600" (post #49)
+[WARNING] Could not find the post parent for "product4-300&#215;300" (post #50)
+[WARNING] Could not find the post parent for "kt-thumb4-600-600" (post #141)
+[WARNING] Could not find the post parent for "kt-thumb3-600-600" (post #143)
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Right Sidebar : 
+
+woocommerce_product_categories - Product categories - Site does not support widget
+Calendar - Calender - Imported
+Gallery - Gallery - Imported
+Navigation Menu - connect us - Imported
+
+Header Sidebar : 
+
+Photoway Author - About the Author - Imported
+Navigation Menu - Connect us - Imported
+
+Footer1 : 
+
+Text - About Photoway - Imported
+
+Footer2 : 
+
+Categories - Categories - Imported
+
+Footer3 : 
+
+mc4wp_form_widget - Newsletter - Site does not support widget
+
+Footer4 : 
+
+Gallery - Gallery - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tetk-after-demo-content-import---
+
